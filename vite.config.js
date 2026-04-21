@@ -14,4 +14,5 @@ export default defineConfig({
         }),
         tailwindcss(),
     ],
+    base: '/My-Exam-App-using-React/',
 })
